@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Away and Beyond</title>
+	<atom:link href="http://localhost/wordpress/en/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://akuzucan.github.io/awaynbeyond/en</link>
+	<description>Let me be your trip coach!</description>
+	<lastBuildDate>Wed, 28 Dec 2016 01:33:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>Comment on Medellin by Doğancan Pusat</title>
+		<link>https://akuzucan.github.io/awaynbeyond/en/2014/08/27/pablo-escobarin-sehri-medellin/#comment-10</link>
+		<dc:creator><![CDATA[Doğancan Pusat]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2016 01:33:35 +0000</pubDate>
+		<guid isPermaLink="false">https://akuzucan.github.io/awaynbeyond/2014/09/07/medellin-27-31-agustos-2014/#comment-10</guid>
+		<description><![CDATA[3. Resimdeki esrar tarlasınıda görü vereydiniz keşke :)]]></description>
+		<content:encoded><![CDATA[<p>3. Resimdeki esrar tarlasınıda görü vereydiniz keşke 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Iquitos- Amazonlar- Cusco by hidayet</title>
+		<link>https://akuzucan.github.io/awaynbeyond/en/2014/11/04/iquitos-ve-amazon-ormanlari/#comment-5</link>
+		<dc:creator><![CDATA[hidayet]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2016 07:36:10 +0000</pubDate>
+		<guid isPermaLink="false">https://akuzucan.github.io/awaynbeyond/2014/11/22/iquitos-amazonlar-cusco-4-kasim-17-kasim-2014/#comment-5</guid>
+		<description><![CDATA[Dalga geçmek amaçlı değil ama aklımda çağrıştırdığı için şu videoyu paylaşayım dedim. https://www.youtube.com/watch?v=G14qwKmLnwc
+
+Bu arada şaman diyince insanın aklına çok daha mistik tipler geliyor. Buradaki şaman hocanız kot pantolon ve t-shirt ile sanki bu işi ticarete dökmüş bir Peru&#039;lu izlenimi verdi. Bulunduğunuz yer yerlilerin yaşadığı bir yer miydi? daha mistik insalarla tanışma imkanınız oldu mu?]]></description>
+		<content:encoded><![CDATA[<p>Dalga geçmek amaçlı değil ama aklımda çağrıştırdığı için şu videoyu paylaşayım dedim. <a href="https://www.youtube.com/watch?v=G14qwKmLnwc" rel="nofollow">https://www.youtube.com/watch?v=G14qwKmLnwc</a></p>
+<p>Bu arada şaman diyince insanın aklına çok daha mistik tipler geliyor. Buradaki şaman hocanız kot pantolon ve t-shirt ile sanki bu işi ticarete dökmüş bir Peru&#8217;lu izlenimi verdi. Bulunduğunuz yer yerlilerin yaşadığı bir yer miydi? daha mistik insalarla tanışma imkanınız oldu mu?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
